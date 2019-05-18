@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMP lab2 GUI", "AMP lab2 GUI\AMP lab2 GUI.csproj", "{F1C8DA16-54C0-45E5-BF98-2F23A6204724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C8DA16-54C0-45E5-BF98-2F23A6204724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C8DA16-54C0-45E5-BF98-2F23A6204724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C8DA16-54C0-45E5-BF98-2F23A6204724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C8DA16-54C0-45E5-BF98-2F23A6204724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80464CC9-0602-4B47-BEE2-6BC3CFD905C7}
+	EndGlobalSection
+EndGlobal

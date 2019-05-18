@@ -1,0 +1,58 @@
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe.config
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.pdb
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\MaterialSkin.dll
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csprojAssemblyReference.cache
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form1.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Properties.Resources.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.GenerateResource.cache
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CopyComplete
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.exe
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.pdb
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form2.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form3.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form4.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form5.resources
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\source\repos\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csprojAssemblyReference.cache
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form1.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form2.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form3.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form4.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form5.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Properties.Resources.resources
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.GenerateResource.cache
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CoreCompileInputs.cache
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.exe
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.pdb
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe.config
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.pdb
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.dll
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.xml
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Універ\AMP\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CopyComplete
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe.config
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.exe
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\AMP lab2 GUI.pdb
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.dll
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.xml
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csprojAssemblyReference.cache
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form1.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form2.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form3.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form4.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Form5.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP_lab2_GUI.Properties.Resources.resources
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.csproj.CopyComplete
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.exe
+C:\Users\Sasha\Desktop\AMP lab2 GUI\AMP lab2 GUI\obj\Debug\AMP lab2 GUI.pdb
